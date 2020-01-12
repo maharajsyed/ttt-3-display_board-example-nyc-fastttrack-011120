@@ -4,5 +4,5 @@
 # board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
 def display_board
-  puts "a 3x3 Tic Tac Toe Board"
+  puts "   "
 end
