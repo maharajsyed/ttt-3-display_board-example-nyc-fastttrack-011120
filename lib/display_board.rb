@@ -3,6 +3,6 @@
 # out the current select
 # board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
-def display_board(board)
-  board = ['   ','   ','   ','   ','   ','   ','   ','   ','   ']
+def display_board
+  puts "a 3x3 Tic Tac Toe Board"
 end
